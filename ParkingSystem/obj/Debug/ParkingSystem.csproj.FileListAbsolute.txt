@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe.config
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.exe
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\bin\Debug\ParkingSystem.pdb
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.Properties.Resources.resources
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.exe
+C:\Users\User\source\repos\ParkingSystem\ParkingSystem\ParkingSystem\obj\Debug\ParkingSystem.pdb
